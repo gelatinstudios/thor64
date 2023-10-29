@@ -1,0 +1,13 @@
+
+main :: proc() {
+    x: byte;
+    x = 0;
+    y : byte = 4;
+    z := 7;
+    x = y + z;
+    y = y + x;
+    亁 := 2;
+    if x > y
+        println(x);
+    println(y);
+}

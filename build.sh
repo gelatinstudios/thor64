@@ -1,0 +1,2 @@
+
+odin build source -debug
